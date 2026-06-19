@@ -23,6 +23,14 @@ A continuación se muestra una captura de pantalla de la aplicación en funciona
 
 ---
 
+## 🧪 Pruebas
+
+Este proyecto incluye pruebas automatizadas para garantizar su correcto funcionamiento:
+- **Pruebas Unitarias:** Verificación de la lógica interna de cálculo de la propina (`TipCalculatorTests.kt`).
+- **Pruebas de Interfaz de Usuario (UI):** Pruebas instrumentadas con Jetpack Compose para validar la interacción del usuario y la actualización de los componentes en pantalla (`TipUITests.kt`).
+
+---
+
 ## 🛠️ Tecnologías y Herramientas
 
 - **Lenguaje:** [Kotlin](https://kotlinlang.org/)
